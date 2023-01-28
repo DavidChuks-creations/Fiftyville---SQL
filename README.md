@@ -8,3 +8,5 @@ Who the thief is,
 What city the thief escaped to, and
 Who the thief’s accomplice is who helped them escape
 All you know is that the theft took place on July 28, 2021 and that it took place on Humphrey Street.
+
+Sql code contained in log.sql , database file in fiftyville.db
